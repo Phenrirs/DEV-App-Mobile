@@ -1,2 +1,2 @@
-# 08-Desenvolvimento-de-Aplicativos-M-veis-Pr-Sele-o-World-Skills-Competition-
+Desenvolvimento-de-Aplicativos-Móveis-World-Skills
 Mini projeto avaliativo - WordSkills
