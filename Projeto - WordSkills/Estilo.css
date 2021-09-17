@@ -1,0 +1,28 @@
+ul.nav { 
+	margin:0; 
+	padding:0;
+	}
+	
+ul.nav li {
+	list-style:none;	
+	display:inline;
+	}
+ul.nav li a {
+	font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+	color:#ffffff;
+	text-align:center;
+	text-decoration:none;
+    }
+    
+ul.nav a:hover{
+    background:#999;
+    color:#fff;
+    }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
